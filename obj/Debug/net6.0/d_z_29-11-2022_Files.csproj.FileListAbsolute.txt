@@ -1,0 +1,15 @@
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\bin\Debug\net6.0\d_z_29-11-2022_Files.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\bin\Debug\net6.0\d_z_29-11-2022_Files.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\bin\Debug\net6.0\d_z_29-11-2022_Files.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\bin\Debug\net6.0\d_z_29-11-2022_Files.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\bin\Debug\net6.0\d_z_29-11-2022_Files.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\refint\d_z_29-11-2022_Files.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\d_z_29-11-2022_Files.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_Files\obj\Debug\net6.0\ref\d_z_29-11-2022_Files.dll
